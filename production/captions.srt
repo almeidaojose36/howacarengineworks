@@ -1,0 +1,179 @@
+1
+00:00:02,599 --> 00:00:11,560
+Press the gas pedal for one second, and inside this metal block, more than one hundred and twenty controlled explosions happen before you even lift your foot.
+
+2
+00:00:12,110 --> 00:00:16,942
+Each one hits the top of a piston with the force of a small car sitting on it.
+
+3
+00:00:17,492 --> 00:00:21,907
+From the outside, it's just a lump of cast aluminum bolted to a gearbox.
+
+4
+00:00:22,457 --> 00:00:32,932
+But cut it open, and three separate rivers are racing through it at once. Ice-cold compressed air. White-hot exhaust gas. And pressurized, golden oil.
+
+5
+00:00:33,482 --> 00:00:45,603
+Today, we peel off the covers, spin up the twin turbos, and trace every moving part inside a twin-turbocharged V8. And by the end, you'll see why its most important part is a film of oil thinner than a human hair.
+
+6
+00:00:47,753 --> 00:00:49,973
+Chapter one. The metal skeleton.
+
+7
+00:00:51,423 --> 00:01:01,350
+Strip away the hoses and manifolds, and you're looking at the engine block. A rigid cast-aluminum spine, built to contain thousands of violent pressure spikes every single minute.
+
+8
+00:01:01,900 --> 00:01:11,748
+Instead of lining eight cylinders up in one long row, they're split into two banks of four, tilted into a V. That cuts the engine's length in half, and keeps the weight low.
+
+9
+00:01:12,298 --> 00:01:21,493
+Running straight down the center, at the very bottom, is the crankshaft. A heavy, forged steel shaft with offset throws, one for every pair of cylinders.
+
+10
+00:01:22,043 --> 00:01:33,041
+And underneath it sits the oil pan, holding the engine's lifeblood. Without a constant film of pressurized oil between these spinning surfaces, the engine would weld itself solid in seconds.
+
+11
+00:01:33,591 --> 00:01:38,920
+To understand how this dead lump of metal creates power, we have to zoom into a single cylinder.
+
+12
+00:01:41,070 --> 00:01:43,656
+Chapter two. Four strokes, one cylinder.
+
+13
+00:01:45,106 --> 00:01:55,502
+Above the cylinder sits the cylinder head. Inside it, a spinning camshaft presses down on steel valves against stiff coil springs, opening and sealing the chamber dozens of times every second.
+
+14
+00:01:56,052 --> 00:01:58,560
+Everything happens in four quick beats.
+
+15
+00:02:00,510 --> 00:02:08,634
+Beat one. Intake. The intake valves drop open, the piston slides down, and pressurized air rushes into the cylinder.
+
+16
+00:02:10,584 --> 00:02:20,798
+Beat two. Compression. All valves snap shut. The piston rockets upward, squeezing that air into a tenth of its original space, heating it as it packs tighter.
+
+17
+00:02:22,748 --> 00:02:31,421
+Just before the piston reaches the top, a direct injector sprays a fine mist of fuel straight into the compressed air. And a spark ignites it.
+
+18
+00:02:33,371 --> 00:02:44,185
+Beat three. Power. Expanding gas slams the piston back down, shoving the connecting rod and twisting the crankshaft below. This is the only stroke that makes power.
+
+19
+00:02:46,135 --> 00:02:53,842
+Beat four. Exhaust. The exhaust valves pop open, and the rising piston shoves the spent, burning gas out the side.
+
+20
+00:02:55,792 --> 00:03:05,770
+Now multiply that by eight, firing in a staggered rhythm, so that every quarter turn of the crank, another cylinder fires. The crankshaft never gets a moment's rest.
+
+21
+00:03:06,320 --> 00:03:12,825
+But all of this, so far, is just an ordinary V8. Here's where the twin turbos turn it into a monster.
+
+22
+00:03:14,975 --> 00:03:16,960
+Chapter three. The hot side.
+
+23
+00:03:18,410 --> 00:03:25,933
+In a normal engine, that hot exhaust is thrown straight out the tailpipe, wasting roughly a third of the fuel's energy as pure heat.
+
+24
+00:03:26,483 --> 00:03:35,496
+Here, it pours into the exhaust manifolds. Thick metal tubes that glow dull orange under heavy load, at over nine hundred degrees Celsius.
+
+25
+00:03:36,046 --> 00:03:43,752
+Instead of letting that pressure escape, the manifolds funnel it straight into two turbochargers. One for the left bank, one for the right.
+
+26
+00:03:45,702 --> 00:03:58,476
+Inside the hot side of each turbo sits a turbine wheel. The blast of exhaust hits its curved blades and spins it past one hundred thousand revolutions per minute, before finally escaping through the exhaust outlet.
+
+27
+00:03:59,026 --> 00:04:06,209
+And that spinning turbine shares a single solid steel shaft with a second wheel, sitting right beside it, on the cold side.
+
+28
+00:04:08,359 --> 00:04:10,266
+Chapter four. The cold side.
+
+29
+00:04:11,716 --> 00:04:23,236
+On the cold side, the compressor wheel scoops in outside air and flings it outward, its blade tips moving faster than the speed of sound, cramming far more oxygen into the same space.
+
+30
+00:04:23,786 --> 00:04:31,492
+More oxygen means the engine can burn more fuel on every single stroke, making a compact V8 punch like an engine twice its size.
+
+31
+00:04:33,442 --> 00:04:40,495
+There's one catch. Squeezing air makes it scorching hot, and hot air is thin. It carries less oxygen per gulp.
+
+32
+00:04:41,045 --> 00:04:47,759
+So the superheated air travels up the charge air hoses, straight into the intercoolers mounted on top of the engine.
+
+33
+00:04:48,309 --> 00:04:54,160
+Inside those finned cores, the heat is pulled out of the compressed air, making it cold and dense again.
+
+34
+00:04:54,710 --> 00:05:02,678
+From there, the intake manifold splits that dense, blue stream evenly across all eight cylinders. Ready for the next power stroke.
+
+35
+00:05:04,828 --> 00:05:06,917
+Chapter five. The hidden river.
+
+36
+00:05:08,367 --> 00:05:14,898
+While air and fire race through the top and sides, a third system keeps the entire machine from tearing itself apart.
+
+37
+00:05:15,448 --> 00:05:23,624
+A pump draws golden oil from the oil pan and forces it, under pressure, through hidden tunnels drilled straight through the engine block.
+
+38
+00:05:24,174 --> 00:05:32,429
+It floods the crankshaft bearings, sprays the underside of the pistons to cool them, and climbs all the way up to the camshafts in the cylinder heads.
+
+39
+00:05:34,379 --> 00:05:48,720
+And most critically, a thin line feeds each turbocharger's center shaft. Remember that film thinner than a hair? This is it. Those hundred-thousand-RPM wheels never actually touch metal. They float on a microscopic cushion of oil.
+
+40
+00:05:50,870 --> 00:05:53,874
+Chapter six. Turning explosions into motion.
+
+41
+00:05:55,324 --> 00:05:58,485
+All eight pistons are still just hammering up and down.
+
+42
+00:05:59,035 --> 00:06:06,794
+The crankshaft converts that violent punching into smooth rotation at the back of the block, and sends it straight into the transmission.
+
+43
+00:06:07,344 --> 00:06:18,811
+Inside that ribbed aluminum housing, sets of gears multiply torque to launch from a dead stop, or drop engine speed for quiet highway cruising, before sending the power out to the wheels.
+
+44
+00:06:20,761 --> 00:06:30,557
+Eight pistons. Two turbos. Three intertwined rivers of air, fire, and oil. All synchronized to within a fraction of a millisecond.
+
+45
+00:06:31,107 --> 00:06:36,149
+And the next time you press that pedal, you'll know exactly what you just set in motion.
